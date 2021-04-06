@@ -10,5 +10,5 @@ module.exports = {
       },
     ],
   ],
-  exclude: ["./node_modules/core-js"],
+  exclude: ["core-js"],
 };
